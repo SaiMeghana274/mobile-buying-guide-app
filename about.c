@@ -5,6 +5,7 @@ void main()
 int j=0;
 {
 printf("minnu")
+printf("hello")
 }
 getch()
 }
